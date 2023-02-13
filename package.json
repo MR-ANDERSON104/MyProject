@@ -1,0 +1,11 @@
+{
+  "name": "sujal",
+  "version": "1.0.0",
+  "description": "Package",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "sujal",
+  "license": "ISC"
+}
